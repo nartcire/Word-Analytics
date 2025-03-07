@@ -12,7 +12,7 @@ The web application mainly serves to give information concerning in typed in or 
 
 ## Video
 
-Uploading Screen Recording 2025-03-07 at 2.43.12 PM.mov…
+https://github.com/user-attachments/assets/068cf67b-9b32-4cc6-a84e-8c28fe95ca07
 
 ## Tech Stack
 
